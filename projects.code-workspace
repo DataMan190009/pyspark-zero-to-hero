@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "pyspark-zero-to-hero",
+			"path": "."
+		},
+		{
+			"name": "notebooks",
+			"path": "../../notebooks"
+		}
+	],
+	"settings": {}
+}
